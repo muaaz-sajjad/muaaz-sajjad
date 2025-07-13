@@ -1,57 +1,48 @@
-# 👋 Hi there, I'm Muaaz Sajjad
+# 🧭 Muaaz Sajjad
 
-🎓 **BS Physics Student** | 💻 **AI & ML Learner** | 🧠 **Computational Physicist**  
-🧵 **Founder at Oldfit International** | 🌍 Dreaming Big, Thinking Deep
-
----
-
-## 🧭 About Me
-
-I'm a passionate Physics student at COMSATS University with deep curiosity in **AI, Machine Learning**, and **Quantum Computing**. I love building real-world applications from scientific concepts, blending logic with creativity.
-
-In parallel, I run a sportswear business, **Oldfit International**, and aim to bridge academia, technology, and entrepreneurship.
+Student of Physics  
+Interested in computation, theory, and learning systems that scale from electrons to algorithms.
 
 ---
 
-## 💡 Current Focus
+## 📂 Focus Areas
 
-- 📚 **Learning AI/ML from scratch** (Python, NumPy, Pandas, TensorFlow, PyTorch)
-- 🔬 **Implementing Density Functional Theory (DFT)** in Python
-- 🛍️ **Scaling my sportswear business** through Shopify, Alibaba, and LinkedIn outreach
-- ✍️ Writing about **philosophy, behaviors, and deep concepts** on Medium
-
----
-
-## 🚀 Projects & Highlights
-
-- 🔬 [DFT-using-Python](https://github.com/muaaz-sajjad/DFT-using-Python): Clean implementation of Density Functional Theory with step-by-step Python code
-- 🧢 [Oldfit International](https://www.alibaba.com/company_profile/trade-capacity/oldfitinternational.html): Custom sportswear supplier on Alibaba
-- 🛒 [Sports X Pro](https://www.sportsxpro.com): My US-based online store
+- Numerical methods in physics  
+- Density Functional Theory (DFT)  
+- Machine learning fundamentals  
+- Quantum mechanics & linear algebra  
+- Scientific programming in Python
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧪 Projects
 
-**Languages & Libraries:**  
-`Python` `NumPy` `Matplotlib` `SciPy` `Pandas` `TensorFlow` `PyTorch`
+- [DFT-using-Python](https://github.com/muaaz-sajjad/DFT-using-Python)  
+  Exploratory implementation of Density Functional Theory using Python and NumPy.
 
-**Tools & Platforms:**  
-`Jupyter Notebook` `GitHub` `MATLAB` `Shopify` `Alibaba` `LinkedIn`
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muaaz-sajjad&show_icons=true&theme=gruvbox)
+- [Notebooks & Notes](#) *(coming soon)*  
+  Clean, topic-wise notebooks on physics and machine learning.
 
 ---
 
-## 📫 Connect with Me
+## ⚙️ Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muaaz%20Sajjad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muaaz-sajjad-26574a27a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+`Python` `NumPy` `SciPy` `Matplotlib`  
+`Jupyter` `Git` `Latex` `Linux`
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muaaz-sajjad&show_icons=true&theme=vue-dark)
+
+---
+
+## 📫 Contact
+
 [![Email](https://img.shields.io/badge/Email-muaazsajjad777@gmail.com-c14438?style=flat&logo=gmail)](mailto:muaazsajjad777@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muaaz%20Sajjad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muaaz-sajjad-26574a27a)
 
 ---
 
-> "Simple ideas, deeply understood, can change the world."  
-> — *My approach to science, code, and business.*
+> “Work done in silence becomes part of the structure of understanding.”
